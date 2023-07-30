@@ -1,4 +1,4 @@
-# The Contact List App 
+# The Ecommerce App 
 
 ## Key Features
 
